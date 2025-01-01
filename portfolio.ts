@@ -16,7 +16,7 @@ export const greetings: GreetingsType = {
   title: "Hi all, I'm Nabaraj",
   description:
     "A React.js developer with a strong focus on building interactive and high-performance web applications. I specialize in creating dynamic user interfaces using React, and I’m experienced with state management tools like Redux, Context API, and React Hooks. I’m passionate about optimizing performance, integrating APIs, and ensuring seamless, responsive designs. With a keen eye for detail and a commitment to clean, maintainable code, I strive to deliver exceptional user experiences across web platforms.",
-  resumeLink: "#",
+  resumeLink: "resume.pdf",
 };
 
 export const openSource = {
